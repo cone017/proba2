@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\PrimerKolokvijumaVert.exe.config
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\PrimerKolokvijumaVert.exe
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\PrimerKolokvijumaVert.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\BusinessLayer.dll
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\DataLayer.dll
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\BusinessLayer.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\bin\Debug\DataLayer.pdb
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.Form1.resources
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.Properties.Resources.resources
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.csproj.CopyComplete
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.exe
+C:\Users\Dell\source\repos\PrimerKolokvijumaVert\PrimerKolokvijumaVert\PrimerKolokvijumaVert\obj\Debug\PrimerKolokvijumaVert.pdb
